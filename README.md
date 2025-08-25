@@ -24,3 +24,15 @@ The objectives are:
 ├── results/ # Outputs: charts, checkpoints
 ├── README.md # Project documentation
 
+## 📊 Key Insights
+ - Customers with month-to-month contracts are more likely to churn than those with yearly contracts.
+ - High monthly charges significantly increase the risk of churn.
+ - Customers paying via electronic checks exhibit higher churn rates.
+ - Tenure length has an inverse relationship with churn — the longer the tenure, the lower the churn probability.
+ - Machine learning models like Logistic Regression and Random Forest provided strong predictive performance.
+
+## 📈 Results & Visuals
+ - The analysis includes:
+ - Correlation heatmaps of customer attributes.
+ - Churn distribution across demographics and service types.
+ - Predictive model evaluation with metrics: Accuracy, Precision, Recall, F1-score.
