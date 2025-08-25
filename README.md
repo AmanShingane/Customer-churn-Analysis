@@ -19,10 +19,15 @@ The objectives are:
   - Jupyter Notebook – Development environment  
 
 ## 📂 Project Structure
-├── Telco_Customer_Churn_Analysis.ipynb # Main analysis notebook
-├── data # Dataset folder
-├── results/ # Outputs: charts, checkpoints
-├── README.md # Project documentation
+Telco-Customer-Churn-Analysis/
+│
+├── Telco_Customer_Churn_Analysis.ipynb   # Main Jupyter Notebook for analysis
+│
+├── results/                              # Outputs: charts, checkpoints
+│
+├── .gitignore                            # Git ignore file
+└── README.md                             # Project documentation
+
 
 ## 📊 Key Insights
  - Customers with month-to-month contracts are more likely to churn than those with yearly contracts.
